@@ -1,5 +1,41 @@
+/* header  */
 .banner-text-center {
 
     bottom: 20%;
+}
 
+.about-details-bg {
+    background-color: #F4FAFD;
+}
+
+.rating i {
+    color: #F6A20E;
+}
+
+.feedback-item {
+    position: relative;
+}
+
+.arrow-left {
+    position: absolute;
+    top: 50%;
+    left: -2%;
+    background-color: #E5F6FF;
+    color: #289BDE;
+}
+
+.arrow-right {
+    position: absolute;
+    top: 50%;
+    right: -2%;
+    background-color: #289BDE;
+    color: #fff;
+}
+
+.social-icon a {
+    color: #fff;
+    background-color: #242424;
+    padding: 10px 15px;
+    border-radius: 50%;
+    margin-left: 10px;
 }
